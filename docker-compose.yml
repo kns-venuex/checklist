@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  checklist:
+    build:
+      context: .
+    image: venuex/checklist:latest
+    container_name: venuex-checklist
+    ports:
+    - "8001:80"

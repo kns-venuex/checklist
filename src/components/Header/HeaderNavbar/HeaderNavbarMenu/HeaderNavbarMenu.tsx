@@ -35,17 +35,17 @@ const HeaderNavbarMenu: FC<Props> = ({ className }) => (
         <span className="c-header-navbar-menu__link-label">Github</span>
       </LinkSecondaryAsAnchor>
     </li>
-    <li className="c-header-navbar-menu__item">
-      <LinkBrandAsAnchor
-        className="c-header-navbar-menu__link"
-        href="https://www.atolye15.com/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <Icon name="atolye15-logo" className="c-header-navbar-menu__link-icon" ariaHidden />
-        <span className="c-header-navbar-menu__link-label">Atolye15</span>
-      </LinkBrandAsAnchor>
-    </li>
+    {/*<li className="c-header-navbar-menu__item">*/}
+    {/*  <LinkBrandAsAnchor*/}
+    {/*    className="c-header-navbar-menu__link"*/}
+    {/*    href="https://www.venuex.io/"*/}
+    {/*    target="_blank"*/}
+    {/*    rel="noopener noreferrer"*/}
+    {/*  >*/}
+    {/*    <Icon name="atolye15-logo" className="c-header-navbar-menu__link-icon" ariaHidden />*/}
+    {/*    <span className="c-header-navbar-menu__link-label">Atolye15</span>*/}
+    {/*  </LinkBrandAsAnchor>*/}
+    {/*</li>*/}
   </ul>
 );
 

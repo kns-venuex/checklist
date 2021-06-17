@@ -4,8 +4,7 @@ import cx from 'classnames';
 import FooterSocialMenu from './FooterSocialMenu';
 import LinkSecondary from '../links/LinkSecondary';
 
-import atolye15Logo from '../../images/atolye15-logo.svg';
-import netlifyLogo from '../../images/netlify.svg';
+import venuexLogo from '../../images/venuex-logo.png';
 
 import './c-footer.scss';
 import LinkLightAsAnchor from '../links/LinkLight/LinkLightAsAnchor';
@@ -26,34 +25,29 @@ const Footer: FC<Props> = ({ className }) => (
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img className="c-footer__brand-logo" src={atolye15Logo} alt="Atolye15" />
+            <img className="c-footer__brand-logo" src={venuexLogo} alt="VenueX" />
           </LinkLightAsAnchor>
 
           <div className="u-font-weight-500">
-            Top class outsource <br />
-            Design &amp; Development
+            Bring brick-and-mortar online <br />
+            digitalize the experience
           </div>
           <nav className="c-footer__social-nav" aria-labelledby="social-menu-label">
             <h2 className="u-visually-hidden" id="social-menu-label">
-              Atolye15 Social Menu
+              VenueX Social Menu
             </h2>
             <FooterSocialMenu />
-            <div className="u-margin-top-medium">
-              <a href="https://www.netlify.com" target="_blank" rel="noopener noreferrer">
-                <img src={netlifyLogo} alt="Deploys by Netlify" />
-              </a>
-            </div>
           </nav>
         </div>
         <div className="col col--sm-6 col--md-3 u-padding-ends">
           <nav aria-labelledby="atolye15-menu-label">
             <h6 className="c-footer__title" id="atolye15-menu-label">
-              Atolye15
+              VenueX
             </h6>
             <ul className="c-footer__menu">
               <li className="u-margin-top-2xsmall">
                 <LinkSecondaryAsAnchor
-                  href="https://www.atolye15.com/about-us"
+                  href="https://www.venuex.io/about"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -62,25 +56,7 @@ const Footer: FC<Props> = ({ className }) => (
               </li>
               <li className="u-margin-top-2xsmall">
                 <LinkSecondaryAsAnchor
-                  href="https://www.atolye15.com/events"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Explore Our Events
-                </LinkSecondaryAsAnchor>
-              </li>
-              <li className="u-margin-top-2xsmall">
-                <LinkSecondaryAsAnchor
-                  href="https://www.atolye15.com/career"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Open Positions
-                </LinkSecondaryAsAnchor>
-              </li>
-              <li className="u-margin-top-2xsmall">
-                <LinkSecondaryAsAnchor
-                  href="https://www.atolye15.com/contact"
+                  href="https://www.venuex.io/about"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
