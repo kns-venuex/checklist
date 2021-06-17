@@ -277,13 +277,13 @@ const About: FC<Props> = ({ data }) => (
         </div>
 
         <h1 className="h2 u-margin-bottom">
-          <div className="u-color-secondary">What is</div> Atolye15 Checklist
+          <div className="u-color-secondary">What is</div> VenueX Checklist
         </h1>
 
         <p>
           We love to automate anything if it can be automated. For the things we can’t automate
           (yet) we have a protocol. These protocols standardise our workflow so that everyone in
-          Atolye15 works on a standard.
+          VenueX works on a standard.
         </p>
 
         <p>

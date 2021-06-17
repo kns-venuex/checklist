@@ -3,7 +3,7 @@ title: Orientation Programme
 category: Human Resources
 date: "2020-03-12"
 tags: ['orientation', 'mentor', 'welcome-kit','newcomer']
-description: Follow the programme to quickly adapt the employee to the Atolye15 culture and own position.
+description: Follow the programme to quickly adapt the employee to the VenueX culture and own position.
 
 ---
 
@@ -14,7 +14,7 @@ Prepare the equipment and the workspace after the offer has been accepted by the
 You can refer to [this checklist](https://checklist.atolye15.com/checklist/newcomer-accounts-checklist)
 
 - [ ] Determine or prepare an initial project  
-Include an example project in order to introduce Atolye15 and speed up the adaptation process. 
+Include an example project in order to introduce VenueX and speed up the adaptation process. 
 
 - [ ] Assign a mentor  
 Determine mentor who is going to pass information and lead the way about job content. 

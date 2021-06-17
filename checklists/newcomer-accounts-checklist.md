@@ -14,7 +14,7 @@ You need to invite the newcomer also to related channels. #kitchen and #market a
 - [ ] Invite to Jira  
 Don't forget to add relevant role to newcomer
 
-- [ ] Invite to GitHub Atolye15 organization  
+- [ ] Invite to GitHub VenueX organization  
 Don’t forget to add them to the relevant teams. Our project managers are already on GitHub and any designer who wishes to be on the GitHub should be invited too.
 
 - [ ] Invite to Abstract

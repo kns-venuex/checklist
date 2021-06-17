@@ -12,7 +12,7 @@ interface Props {
 
 const defaultTitle = 'Checklist';
 const defaultDescription =
-  'Checklist contains the protocols followed by Atolye15 for software development, design, project management and administrative affairs.';
+  'Checklist contains the protocols followed by VenueX for software development, design, project management and administrative affairs.';
 const defaultImage = ogImage;
 const defaultType = 'website';
 const siteUrl = process.env.GATSBY_PROJECT_LINK;
