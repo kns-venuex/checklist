@@ -60,8 +60,8 @@ jobs:
           GATSBY_GITHUB_LINK: https://github.com/kns-venuex/checklist
         run: |
           # Build venuex/checklist image
-          docker build -t venuex/checklist:latest --build-arg NODE_ENV --build-arg GATSBY_ALGOLIA_APP_ID --build-arg GATSBY_ALGOLIA_SEARCH_KEY --build-arg ALGOLIA_ADMIN_KEY
-           --build-arg ALGOLIA_SKIP_INDEX --build-arg GATSBY_ALGOLIA_INDEX --build-arg GATSBY_SUGGEST_LINK --build-arg GATSBY_PROJECT_LINK --build-arg GATSBY_GITHUB_LINK .
+          docker build -t venuex/checklist:latest --build-arg NODE_ENV --build-arg GATSBY_ALGOLIA_APP_ID --build-arg GATSBY_ALGOLIA_SEARCH_KEY --build-arg ALGOLIA_ADMIN_KEY \
+          --build-arg ALGOLIA_SKIP_INDEX --build-arg GATSBY_ALGOLIA_INDEX --build-arg GATSBY_SUGGEST_LINK --build-arg GATSBY_PROJECT_LINK --build-arg GATSBY_GITHUB_LINK .
           docker tag venuex/checklist:latest $ECR_REGISTRY/$ECR_CHECKLIST_REPOSITORY:$IMAGE_TAG
           echo "::set-output name=checklist_image::$ECR_REGISTRY/$ECR_CHECKLIST_REPOSITORY:$IMAGE_TAG"
 

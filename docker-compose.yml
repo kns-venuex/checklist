@@ -4,6 +4,16 @@ services:
   checklist:
     build:
       context: .
+      args:
+        NODE_ENV: production
+        GATSBY_ALGOLIA_APP_ID: KV44OOF996
+        GATSBY_ALGOLIA_SEARCH_KEY: 155a18b178a839641f5a67478e3dd3cc
+        ALGOLIA_ADMIN_KEY: 50179add46cbce95b482151280fe72ee
+        ALGOLIA_SKIP_INDEX: "true"
+        GATSBY_ALGOLIA_INDEX: checklists
+        GATSBY_SUGGEST_LINK: https://git.io/JnlrR
+        GATSBY_PROJECT_LINK: https://checklist.venuex.io
+        GATSBY_GITHUB_LINK: https://github.com/kns-venuex/checklist
     image: venuex/checklist:latest
     container_name: venuex-checklist
     ports:
