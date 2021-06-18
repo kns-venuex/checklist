@@ -30,6 +30,9 @@ ENV GATSBY_GITHUB_LINK=${GATSBY_GITHUB_LINK}
 RUN yarn global add gatsby-cli
 WORKDIR /app
 ADD . ./
+RUN set -xe; \
+    chmod +x /app/create-env.sh && \
+    /app/create-env.sh
 RUN yarn
 RUN gatsby build
 
