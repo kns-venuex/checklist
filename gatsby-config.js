@@ -9,21 +9,21 @@ module.exports = {
   siteMetadata: {
     title: 'Checklist',
     description: "The protocols we follow for the things we can't automate yet.",
-    author: '@atolye15',
-    siteUrl: 'https://checklist.atolye15.com',
+    author: '@venuexio',
+    siteUrl: 'https://checklist.venuex.io',
   },
   plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-39803605-26',
+        trackingId: 'G-67R3V4XPFR',
       },
     },
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://checklist.atolye15.com`,
+        siteUrl: `https://checklist.venuex.io`,
         stripQueryString: true,
       },
     },

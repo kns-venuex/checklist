@@ -33,7 +33,10 @@ ADD . ./
 RUN set -xe; \
     chmod +x /app/create-env.sh && \
     /app/create-env.sh
-RUN yarn
+RUN set -xe; \
+    printenv && \
+    (OLD_NODE_ENV=${NODE_ENV} && env -u NODE_ENV yarn && NODE_ENV=${OLD_NODE_ENV}); \
+    printenv
 RUN gatsby build
 
 FROM gatsbyjs/gatsby

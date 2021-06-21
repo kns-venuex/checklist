@@ -12,7 +12,7 @@ newPRWelcomeComment: |
   - [X] ~Display VenueX crew's PR reviewing checklist.~
 
   If you're curious about VenueX crew's PR reviewing checklist here it is:
-  - [ ] Check if PR is compatible with our [CoC](https://www.github.com/atolye15/checklist/blob/master/CODE_OF_CONDUCT.md)
+  - [ ] Check if PR is compatible with our [CoC](https://www.github.com/kns-venuex/checklist/blob/master/CODE_OF_CONDUCT.md)
   - [ ] If PR is irrelevant, assign it to the related person.
   - [ ] Review PR carefully to check if it fits VenueX's standards. 🧐
   - [ ] Approve or Request Change.

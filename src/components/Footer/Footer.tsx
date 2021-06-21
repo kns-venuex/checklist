@@ -21,7 +21,7 @@ const Footer: FC<Props> = ({ className }) => (
         <div className="col col--sm-6 u-padding-ends">
           <LinkLightAsAnchor
             className="c-footer__brand-logo-link"
-            href="https://www.atolye15.com"
+            href="https://www.venuex.io"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -38,7 +38,7 @@ const SEO: FC<Props> = ({ title, description, type, image }) => {
         <meta property="og:description" content={seo.description} />
 
         <meta name="twitter:image" content={seo.image} />
-        <meta name="twitter:site" content="@atolye15" />
+        <meta name="twitter:site" content="@venuexio" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={seo.title} />
         <meta name="twitter:description" content={seo.description} />

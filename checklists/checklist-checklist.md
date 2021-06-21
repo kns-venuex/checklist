@@ -7,7 +7,7 @@ description: The naming conventions, rules to follow and things to remember befo
 ---
 ​
 - [ ] Contributers should read and follow the contributing documentation  
-Please refer to [Contributing.md](https://github.com/atolye15/checklist/blob/master/CONTRIBUTING.md)
+Please refer to [Contributing.md](https://github.com/kns-venuex/checklist/blob/master/CONTRIBUTING.md)
 
 - [ ] Each and every contribution should follow the code of conduct
 

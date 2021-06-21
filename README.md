@@ -4,7 +4,7 @@
 
 # Checklist
 
-![License](https://img.shields.io/github/license/atolye15/checklist) ![Build status](https://img.shields.io/circleci/build/github/atolye15/checklist?token=f24c01bd62842ac4e36b333b195fbe18f98459cd) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/atolye15/checklist/blob/master/CONTRIBUTING.md)
+![License](https://img.shields.io/github/license/kns-venuex/checklist) ![Build status](https://img.shields.io/circleci/build/github/atolye15/checklist?token=f24c01bd62842ac4e36b333b195fbe18f98459cd) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/atolye15/checklist/blob/master/CONTRIBUTING.md)
 
 We love to automate anything if it can be automated. For the things we can’t automate (yet) we have a protocol. These protocols standardise our workflow so that everyone in VenueX can work on a standard. Checklist is a project that helps us follow these protocols online.
 
@@ -16,7 +16,7 @@ This was an internal tool that we still use on every department but we’ve deci
 
 ## Contributing
 
-If you would like to contribute to this project, please refer to [CONTRIBUTING.md](https://github.com/atolye15/checklist/blob/master/CONTRIBUTING.md) guide.
+If you would like to contribute to this project, please refer to [CONTRIBUTING.md](https://github.com/kns-venuex/checklist/blob/master/CONTRIBUTING.md) guide.
 
 ## Development
 
@@ -55,4 +55,4 @@ You need to follow these steps to open a new pull request;
 
 ## License
 
-This project has [MIT License](https://github.com/atolye15/checklist/blob/master/LICENSE).
+This project has [MIT License](https://github.com/kns-venuex/checklist/blob/master/LICENSE).

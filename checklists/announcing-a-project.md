@@ -25,4 +25,4 @@ Some projects may need to be published on HackerNews & Reddit too.
 Publishing on Product Hunt depends on the project, you should discuss with your team about whether or not the project is going to be live on Product Hunt.
 
 - [ ] Update VenueX's portfolios  
-For some projects you only need to update our profiles on [Clutch](https://clutch.co/profile/atolye15), [Top Developers](https://www.topdevelopers.co/profile/atolye15) or [Goodfirms](https://www.goodfirms.co/company/atolye15) and for some projects you also need to update our design portfolios; [Dribbble](https://dribbble.com/atolye15) and [Behance](https://behance.net/atolye15). 
+For some projects you only need to update our profiles on [Clutch](https://clutch.co/profile/venuexio), [Top Developers](https://www.topdevelopers.co/profile/venuexio) or [Goodfirms](https://www.goodfirms.co/company/venuexio) and for some projects you also need to update our design portfolios; [Dribbble](https://dribbble.com/venuexio) and [Behance](https://behance.net/venuexio). 

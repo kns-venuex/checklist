@@ -302,12 +302,12 @@ const About: FC<Props> = ({ data }) => (
         </p>
 
         <ButtonAsAnchor
-          href="https://www.atolye15.com"
+          href="https://www.venuex.io"
           className="u-margin-top-xlarge u-width-100%@sm-down"
           target="_blank"
           rel="noopener noreferrer"
         >
-          atolye15.com
+          venuex.io
         </ButtonAsAnchor>
       </section>
     </div>

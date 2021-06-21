@@ -15,6 +15,7 @@
     "gatsby": "^2.20.2",
     "gatsby-image": "^2.3.0",
     "gatsby-plugin-algolia": "^0.5.0",
+    "gatsby-plugin-google-analytics": "^2.2.0",
     "gatsby-plugin-canonical-urls": "^2.2.0",
     "gatsby-plugin-graphql-codegen": "^2.5.0",
     "gatsby-plugin-manifest": "^2.3.1",
@@ -67,7 +68,6 @@
     "babel-preset-gatsby": "^0.3.0",
     "babel-preset-react-app": "^9.1.2",
     "eslint": "^6.8.0",
-    "gatsby-plugin-google-analytics": "^2.2.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^25.1.0",
     "node-sass": "^4.13.1",
@@ -82,7 +82,7 @@
     "vfile-message": "^2.0.3"
   },
   "keywords": [
-    "atolye15",
+    "venuex",
     "checklist"
   ],
   "license": "MIT",
@@ -106,9 +106,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/atolye15/checklist"
+    "url": "https://github.com/kns-venuex/checklist"
   },
   "bugs": {
-    "url": "https://github.com/atolye15/checklist/issues"
+    "url": "https://github.com/kns-venuex/checklist/issues"
   }
 }
