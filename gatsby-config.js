@@ -8,15 +8,17 @@ const queries = require('./src/utils/algolia');
 module.exports = {
   siteMetadata: {
     title: 'Checklist',
-    description: "The protocols we follow for the things we can't automate yet.",
+    description: 'The protocols we follow for the things we can\'t automate yet.',
     author: '@venuexio',
     siteUrl: 'https://checklist.venuex.io',
   },
   plugins: [
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: 'G-67R3V4XPFR',
+        trackingIds: [
+          'G-67R3V4XPFR', // Google Analytics / GA
+        ],
       },
     },
     'gatsby-plugin-react-helmet',
