@@ -8,7 +8,7 @@ const queries = require('./src/utils/algolia');
 module.exports = {
   siteMetadata: {
     title: 'Checklist',
-    description: 'The protocols we follow for the things we can\'t automate yet.',
+    description: "The protocols we follow for the things we can't automate yet.",
     author: '@venuexio',
     siteUrl: 'https://checklist.venuex.io',
   },
