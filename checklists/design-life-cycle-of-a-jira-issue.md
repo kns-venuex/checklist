@@ -4,7 +4,6 @@ category: Design
 date: "2020-03-12"
 tags: ['workflow', 'jira', 'issue', 'tools', 'design-review']
 description: This checklist covers the steps to follow when designing for an ongoing project. The checklist for starting out to a new design project can be found in the design category. 
-
 ---
 
 - [ ] Read the issue carefully  

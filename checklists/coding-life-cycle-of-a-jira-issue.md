@@ -4,6 +4,7 @@ category: General
 date: "2020-03-12"
 tags: ['jira', 'issue', 'development', 'workflow']
 description: VenueX has some protocols to follow prior to coding, in progress and afterwards of coding as well.
+featured: true
 ---
 
 - [ ] Read the acceptance criteria carefully  
