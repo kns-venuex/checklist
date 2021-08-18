@@ -11,12 +11,12 @@ featured: true
 Travel to the office with a peaceful mind
 
 - [ ] Get your coffee  
-This is for whom cant start a day without coffee
+This is for those who can't start a day without coffee
 
 - [ ] Power-up your computer  
 
 - [ ] Spend a few minutes to remember what you have done and where you left  
-It will prepare you to upcoming workload
+It will prepare you for the upcoming workload
 
 - [ ] Define carefully what you are going to do during the day  
 Yeah, you should be clear about it
@@ -24,8 +24,8 @@ Yeah, you should be clear about it
 - [ ] Post your daily scrum  
 Use brief and clear expressions, everyone should understand it in your team at first sight
 
-- [ ] Join to daily stand-up meeting  
-Every scrum team has their morning meetings around 09:45
+- [ ] Join to the daily stand-up meeting  
+Every scrum team has its morning meetings around 09:45
 
 - [ ] Get to work  
 Don't forget what you planned, work on it to make progress
@@ -34,7 +34,7 @@ Don't forget what you planned, work on it to make progress
 Wish you eat healthy things
 
 - [ ] Post your first update  
-Be caution about your expression  
+Be cautious about your expression  
 
 - [ ] Work on    
 Keep focused
@@ -43,9 +43,9 @@ Keep focused
 Remember right?
 
 - [ ] Get back to work  
-Pretty straight-forward, huh? Good.
+Pretty straightforward, huh? Good.
 
-- [ ] Congrats, it's end of the day  
-Take your notes, questions, etc... whatever you need to easily being focused next day
+- [ ] Congrats, it's the end of the day  
+Take your notes, questions, etc... whatever you need to easily be focused next day
 
 - [ ] Come back to this checklist tomorrow
