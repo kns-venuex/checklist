@@ -7,7 +7,7 @@ description: The protocol we follow when we report a bug. This checklist is vita
 ---
 
 - [ ] Open an issue on Jira  
-Issue type must be **bug**. 
+Issue type must be **bug**. Give a meaninful **Summary**. Set Epic to **Bugs** (using **Epic Link**)
 
 - [ ] Provide steps to reproduce  
 Please provide all of the steps when you face the bug. It needs to include the current account information that you're having the issue with. Do not trust assignee to know everything. Never ever forget to provide all the essential steps.

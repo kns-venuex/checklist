@@ -16,8 +16,3 @@ Don't forget to add relevant role to newcomer
 
 - [ ] Invite to GitHub VenueX organization  
 Don’t forget to add them to the relevant teams. Our project managers are already on GitHub and any designer who wishes to be on the GitHub should be invited too.
-
-- [ ] Invite to Abstract
-
-- [ ] Share awesome-atolye15 repo with the newcomer  
-We have lots of tutorial accounts in this repo. Our colleagues' open source projects are also listed here.

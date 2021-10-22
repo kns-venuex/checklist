@@ -6,7 +6,7 @@ tags: ['password']
 description: These are the rules you need to follow when you generate any kind of password
 ---
 
-- [ ] Password should be at least 16 characters long  
+- [ ] Password should be at least 8 characters long  
 
 - [ ] Password should contain at least one symbol
 

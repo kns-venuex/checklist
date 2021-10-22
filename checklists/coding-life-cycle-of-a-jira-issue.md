@@ -7,6 +7,9 @@ description: VenueX has some protocols to follow prior to coding, in progress an
 featured: true
 ---
 
+- [ ] Read the user story carefully  
+Be sure to understand the need from user's point of view.
+
 - [ ] Read the acceptance criteria carefully  
 Be sure all cases are covered. Even you already discussed the issue with the team, some new cases may come up to your mind. Don't hesitate to discuss AC one more time with the team!
 
@@ -15,9 +18,6 @@ You should create a branch with a name like `feature/ABC-123_brief-description`.
 
 - [ ] Push your branch to remote immediately   
 Since we have Jira-GitHub integration, you have to push the branch to remote in order to trigger "In Progress" transition on Jira
-
-- [ ] Start time tracker  
-You need to log your work time. You can use [Chronos](https://chronos.web-pal.com) or [Clockify](https://clockify.me). You can also manually log it on Jira interface
 
 - [ ] Write the code 👊  
 You always commit changes with a meaningful scope. Commits should contain just one task at a time. Therefore, all commits must be revertable
@@ -36,5 +36,3 @@ You always commit changes with a meaningful scope. Commits should contain just o
 You may mention the issue name on PR title
 
 - [ ] Assign relevant people to PR
-
-- [ ] Stop the timer

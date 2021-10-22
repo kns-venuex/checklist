@@ -6,6 +6,9 @@ tags: ['jira', 'issue']
 description: Hey storyteller! 🤓 Follow this checklist to don't miss any point while writing a story.
 ---
 
+- [ ] This Checklist **WILL BE IMPROVED**  
+Do not use right now
+
 - [ ] Start with the user story  
 User story is a brief explanation of what you're going to explain. 
 
