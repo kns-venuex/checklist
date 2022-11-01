@@ -1,9 +1,9 @@
 on: workflow_dispatch
 
-name: Release to dev (new)
+name: Release to prod (new)
 
 jobs:
-  dev_release:
+  prod_release:
     name: Deploy
     runs-on: ubuntu-latest
 
@@ -46,7 +46,7 @@ jobs:
         id: build-images
         env:
           ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
-          ECR_CHECKLIST_REPOSITORY: checklist-dev
+          ECR_CHECKLIST_REPOSITORY: checklist-prod
           IMAGE_TAG: ${{ github.sha }}
           NODE_ENV: production
           GATSBY_ALGOLIA_APP_ID: KV44OOF996
