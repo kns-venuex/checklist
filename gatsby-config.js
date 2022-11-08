@@ -10,7 +10,7 @@ module.exports = {
     title: 'Checklist',
     description: "The protocols we follow for the things we can't automate yet.",
     author: '@venuexio',
-    siteUrl: 'https://checklist.venuex.io',
+    siteUrl: 'https://checklist.venuex.us',
   },
   plugins: [
     {
@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://checklist.venuex.io`,
+        siteUrl: `https://checklist.venuex.us`,
         stripQueryString: true,
       },
     },

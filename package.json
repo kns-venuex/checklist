@@ -104,6 +104,9 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
+  "engines": {
+    "node": "^18.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/kns-venuex/checklist"
