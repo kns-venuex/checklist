@@ -48,7 +48,7 @@ jobs:
           ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
           ECR_CHECKLIST_REPOSITORY: checklist-prod
           IMAGE_TAG: ${{ github.sha }}
-          NODE_ENV: production
+          NODE_ENV: development
           GATSBY_ALGOLIA_APP_ID: KV44OOF996
           GATSBY_ALGOLIA_SEARCH_KEY: 155a18b178a839641f5a67478e3dd3cc
           ALGOLIA_ADMIN_KEY: 50179add46cbce95b482151280fe72ee
