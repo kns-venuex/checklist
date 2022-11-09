@@ -1,4 +1,4 @@
-FROM node:14-buster as build
+FROM node:18-buster as build
 
 ARG NODE_ENV
 ENV NODE_ENV=${NODE_ENV}
